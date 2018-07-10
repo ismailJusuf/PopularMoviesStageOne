@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="release_date">Release Date:</string>
+    <string name="vote_average">Vote Average:</string>
+    <string name="title">Title: </string>
+    <string name="plot_synopsis">Plot Synopsis:</string>
+    <string name="error">Oops, something went wrong.</string>
+</resources>
